@@ -1,4 +1,4 @@
-// Test comment
+// Test new comment
 
 function sayHi(name) {
   return `Hello there ${name}`
